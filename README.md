@@ -1,6 +1,9 @@
 # ProjetJee
 
-Ce projet JEE consiste a créer plusieurs services comme :
+Fait par Guillaume Duquesne
+LPDIM FI
+
+Ce projet JEE consistea créer plusieurs services comme :
 
 - Ajouter un livre
 - Lister les livres par ordre alphabetique
