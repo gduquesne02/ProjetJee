@@ -12,3 +12,6 @@ Ce projet JEE consiste a créer plusieurs services comme :
 
 Toutes ces fonctionnalités sont réunis dans la classe HomeController
 Elles peuvent être testé sur le Swagger UI ou le front du projet
+
+Pour avoir le back avec la bonnes BDD il faut modifier dans les propriétées 
+"spring.jpa.hibernate.ddl-auto = create"
